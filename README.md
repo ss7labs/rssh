@@ -1,9 +1,9 @@
 # rssh
-echo "# rssh" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:ss7labs/rssh.git
-git push -u origin main
+echo "# rssh" >> README.md<br>
+git init<br>
+git add README.md<br>
+git commit -m "first commit"<br>
+git branch -M main<br>
+git remote add origin git@github.com:ss7labs/rssh.git<br>
+git push -u origin main<br>
 
